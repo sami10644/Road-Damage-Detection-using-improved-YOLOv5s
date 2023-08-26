@@ -30,3 +30,8 @@ $ python detect.py --source 0  # webcam
                   vid.mp4    # video
                   path/      # directory
                   path/*.jpg  # glob
+## Acknowledgements
+
+Special acknowledgment to YOLOAir for inspiring and supporting this project's development.
+
+---
